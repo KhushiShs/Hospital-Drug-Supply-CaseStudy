@@ -1,7 +1,0 @@
-week_start,region_id,disease,cases
-2024-01-01,R01,Dengue,45
-2024-01-01,R02,Flu,60
-2024-01-08,R01,Dengue,70
-2024-01-08,R02,Flu,95
-2024-01-15,R01,Dengue,120
-2024-01-15,R02,Flu,150
