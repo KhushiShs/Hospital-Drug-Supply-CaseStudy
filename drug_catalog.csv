@@ -1,0 +1,6 @@
+drug_id,drug_name,category,lead_time_days
+D001,Paracetamol,Analgesic,2
+D002,Azithromycin,Antibiotic,5
+D003,Ibuprofen,Anti-inflammatory,3
+D004,Oseltamivir,Antiviral,7
+D005,Metformin,Antidiabetic,4
