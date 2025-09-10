@@ -88,12 +88,6 @@ Hospital-Drug-Supply-CaseStudy/
     └── regions.xlsx
 ```
 
----
-
-## 📸 Sample Visualizations  
-(Add images/plots from your analysis here, e.g., `visuals/order_trends.png`)  
-
----
 
 ## ✅ Conclusion  
 This case study demonstrates how **data analysis can optimize hospital drug supply chains** by identifying demand trends, stock shortages, and regional patterns.  
